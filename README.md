@@ -1,6 +1,16 @@
-# conversor.monedas.alura.com
-Saludos estimado,
-En este proyecto encontraras un conversor de monedas en lenguaje java el cual se alimenta de una Api libre que por porciona las divisas de las mayorias de la monedas del mundo.
-El progrma se auto recicla ya que en el case puedes modificar la moneda que deseas ver fija sin necesidad de modificar toda la estructura, solo es necesario ponere inicial de codigo de la moneda que deseas ver.
-Ademas el programa te pide desde un inicio la moneda con la que deseas trabajar de tu propio pais o que deseas consultar por lo que no te limita a que no puedas elegir tu propia moneda.
-Asi tambien en la opcion (7) del programa puedes elegir alguna otra moneda que no este dentro del menu, solo necesitas selecionar en dicha opcio y te pedira que ingreses la moneda que deseas realizar la conversion.
+Conversor de Monedas en Java
+¡Saludos!
+
+En este proyecto encontrarás un conversor de monedas desarrollado en Java. Este programa se conecta a una API pública que proporciona las tasas de cambio de la mayoría de las monedas del mundo.
+
+Características
+Flexibilidad en la moneda fija: Puedes modificar fácilmente la moneda que deseas ver fija sin necesidad de alterar toda la estructura del programa. Simplemente ingresa el código de la moneda que deseas fijar.
+
+Selección de moneda inicial: Al iniciar el programa, se te solicitará que elijas la moneda de tu país o la que deseas consultar, lo que te brinda la libertad de trabajar con la moneda que prefieras.
+
+Conversión de monedas adicionales: En la opción (7) del menú, puedes seleccionar una moneda que no esté listada. Solo necesitas elegir esa opción y se te pedirá que ingreses el código de la moneda para realizar la conversión.
+
+¡Disfruta utilizando el conversor de monedas y realiza tus transacciones de manera más sencilla!
+
+
+
